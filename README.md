@@ -54,5 +54,5 @@ My experience spans roles from a frontline **Customer Service Representative** t
 
 ### 🔗 Let's Connect
 
-* **LinkedIn:** [`www.linkedin.com/in/frenz-joshua-juavan-824331282`]
+* **LinkedIn:** [`www.linkedin.com/in/fjuavan`]
 * **Email:** [`fjuavan@gmail.com`]

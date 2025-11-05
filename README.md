@@ -4,6 +4,17 @@ I am an experienced professional specializing in **Quality Assurance, Compliance
 
 My expertise includes **overseeing QA teams**, **developing performance dashboards**, **conducting root cause analysis**, and managing complex customer escalations. I am committed to delivering exceptional results, ensuring compliance, and fostering data-driven decision-making.
 
+---
+
+### 📄 View My Full Resume
+
+For a comprehensive overview of my experience, please view the PDF versions of my resume:
+
+* [**Standard Resume (Combined Experience)**](https://drive.google.com/file/d/1QZQckqmXBrKRKkTSOiHmP_nEgu02hv4x/view)
+* [**LinkedIn Resume Version**](https://drive.google.com/file/d/1srp76EF4uQFFKgNlwIGgC-hU0B1PA4YM/view)
+
+---
+
 ### ✨ Key Expertise & Skills
 
 | **Area** | **Specific Skills & Tools** | **Value Proposition** |
